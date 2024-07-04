@@ -37,7 +37,7 @@ public class AppTest
         assertTrue( true );
     }
 
-    public void unused1()
+    private void unused1()
     {
     }
 }
